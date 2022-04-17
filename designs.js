@@ -7,4 +7,7 @@ function makeGrid() {
 
 // Your code goes here!
 
+alert("called makeGrid");
+
+
 }
